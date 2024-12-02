@@ -1,5 +1,4 @@
-
-# Profit-Analysis Dashboard
+# Profit-Analysis Dashboard  for Stationery Sales
 
 The Power BI dashboard project focuses on the profit analysis of stationery item sales, utilizing data from a Microsoft Excel file. The dashboard features a variety of visualizations, including bar charts, pie charts, maps, and tables, to provide a comprehensive overview of sales performance and profitability metrics.
 
