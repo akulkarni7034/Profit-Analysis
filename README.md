@@ -9,6 +9,4 @@ Key highlights of the project include:
 - **DAX Query Formulas:** Utilization of advanced DAX calculations to derive meaningful metrics and enhance data analysis capabilities.
 - **User-Friendly Interface:** Designed for ease of use, enabling stakeholders to make data-driven decisions efficiently.
 
-This dashboard serves as a valuable tool for businesses seeking to optimize their sales strategies and improve profitability in the stationery market.
-
-utydfxxxxgggggggggggggggggg
+This dashboard serves as a valuable tool for businesses seeking to optimize their sales strategies and improve profitability in the stationery market
